@@ -3,9 +3,9 @@
 ## Welcome!
 
 This is the repository of the talk that we will give on April 20 at CSVConf V7. In this repository you will find:
-    1. a brief summary of the talk
-    2. the code we use to perform our analysis,
-    3. the slides we used in the presentation.
+1. a brief summary of the talk
+2. the code we use to perform our analysis,
+3. the slides we used in the presentation.
 
 
 
