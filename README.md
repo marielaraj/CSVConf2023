@@ -7,9 +7,21 @@ This is the repository of the talk that we will give on April 20 at CSVConf V7. 
 2. the code we use to perform our analysis,
 3. the slides we used in the presentation.
 
+### 1. Presentation information
 
+**Date**: Thursday, April 20, 2023
+
+**Authors**: Jesica Formoso, Laurel Ascenzi, Patricia Loto and Mariela Rajngewerc
 
 **Abstract**: The open science movement has emerged in recent years mainly as a response to the replicability and reproducibility crises faced by different branches of science and seeks to ensure the transparency of research work by sharing the different stages of the workflow. More recently, different organizations have begun to promote these values through the development of public policies and the financing of projects. However, these measures vary greatly depending on the region. One possible tool for open science dissemination, potentially with more user acceptance, is communities of practice, self-organized and self-maintained groups of people who share a concern or passion for something they do and learn how to do it better as they interact regularly. A great growth of these communities has been observed in recent years in Latin America, many aimed at reducing the gender gap in STEAM such as R-Ladies, PyLadies, GeoChicas, TecnoLatinas and Women in Bioinformatics and Data Science Latin America, others focused on transmitting skills to teach computational tools such as The Carpentries or dedicated to teach open science tools and practices such as MetaDocencia. In this context, we ask ourselves what is the role of communities of practice in the dissemination and implementation of open science practices in general, and specifically, in the Latin American region. To this end, we conducted an exploratory analysis of the evolution of the use of the terms "open science" and "open science" over time from 2012 to the present. Where information was available, the representation of each region was studied. Finally, a social network analysis was performed to identify influential users and clusters of users and then the association of these with communities of practice was studied.
+
+### 2. Scripts
+
+In this work we selected hastags related to open science, the selected hastags were:
+Then, we searched for the tweets that contained those expressions and studied the relationship between the users. For that, we use the following scripts:
+
+- The script [I'm an inline-style link](https://www.google.com) shows how we pull up the data in R using the *rtweet* library. The [I'm an inline-style link](https://www.google.com) notebook shows how we pull up the data using Python's *Tweetpy* library.
+- The script [I'm an inline-style link](https://www.google.com) shows how we studied the relationship between Tweets's authors.
 
 
 ***
