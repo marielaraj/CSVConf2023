@@ -25,7 +25,12 @@ Este es el repositorio de la charla que daremos el jueves 20 de abril en la CSVC
 
 
 ### 2. Código
+
+En este trabajo seleccionamos hastags relacionados a ciencia abierta, los hastags seleccionados fueron:
+Luego, buscamos los tweets que contenian esas expresiones y estudiamos la relación entre los usuarios. Para eso utlizamos los siguientes scripts:
+
 #### Levantar los datos de Twitter:
+El script [I'm an inline-style link](https://www.google.com) muestra como levantamos los datos en R utilizando la biblioteca rtweet. La notebook [I'm an inline-style link](https://www.google.com) muestra como levantamos los datos utilizando la biblioteca Tweetpy de Python.
 
 #### Manipular los Tweets:
 
