@@ -1,5 +1,14 @@
 # Communities of practice in Latin America and their influence on the dissemination of open science
 
+## Welcome!
+
+This is the repository of the talk that we will give on April 20 at CSVConf V7. In this repository you will find:
+    1. a brief summary of the talk
+    2. the code we use to perform our analysis,
+    3. the slides we used in the presentation.
+
+
+
 **Abstract**: The open science movement has emerged in recent years mainly as a response to the replicability and reproducibility crises faced by different branches of science and seeks to ensure the transparency of research work by sharing the different stages of the workflow. More recently, different organizations have begun to promote these values through the development of public policies and the financing of projects. However, these measures vary greatly depending on the region. One possible tool for open science dissemination, potentially with more user acceptance, is communities of practice, self-organized and self-maintained groups of people who share a concern or passion for something they do and learn how to do it better as they interact regularly. A great growth of these communities has been observed in recent years in Latin America, many aimed at reducing the gender gap in STEAM such as R-Ladies, PyLadies, GeoChicas, TecnoLatinas and Women in Bioinformatics and Data Science Latin America, others focused on transmitting skills to teach computational tools such as The Carpentries or dedicated to teach open science tools and practices such as MetaDocencia. In this context, we ask ourselves what is the role of communities of practice in the dissemination and implementation of open science practices in general, and specifically, in the Latin American region. To this end, we conducted an exploratory analysis of the evolution of the use of the terms "open science" and "open science" over time from 2012 to the present. Where information was available, the representation of each region was studied. Finally, a social network analysis was performed to identify influential users and clusters of users and then the association of these with communities of practice was studied.
 
 
@@ -10,9 +19,9 @@
 ## ¡Bienvenida! ¡Bienvenide! ¡Bienvenido!
 
 Este es el repositorio de la charla que daremos el jueves 20 de abril en la CSVConf V7. En este repositorio podrás encontrar:
-1. un breve resumen de la charla
-2. el código que utilizamos para realizar nuestro análisis,
-3. las slides que usamos en la presentación.
+  1. un breve resumen de la charla
+  2. el código que utilizamos para realizar nuestro análisis,
+  3. las slides que usamos en la presentación.
 
 
 ### 1. Resumen de la charla
