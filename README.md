@@ -25,6 +25,8 @@ Este es el repositorio de la charla que daremos el jueves 20 de abril en la CSVC
 
 
 ### 2. Código
+#### Levantar los datos de Twitter:
 
+#### Manipular los Tweets:
 
 ### 3. Slides
