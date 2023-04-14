@@ -23,6 +23,13 @@ Then, we searched for the tweets that contained those expressions and studied th
 - The script [I'm an inline-style link](https://www.google.com) shows how we pull up the data in R using the *rtweet* library. The [I'm an inline-style link](https://www.google.com) notebook shows how we pull up the data using Python's *Tweetpy* library.
 - The script [I'm an inline-style link](https://www.google.com) shows how we studied the relationship between Tweets's authors.
 
+### 3. Slides
+
+
+***
+## Do you want to join the MetaDocencia community?
+You can join our [slack](https://metadocencia.slack.com/join/shared_invite/zt-1a3cri0ht-_Ws~Eq2VkkQ9L64rvu2czA#/shared-invite/email) or write to info@metadocencia.org.
+
 
 ***
 
@@ -59,4 +66,4 @@ Luego, buscamos los tweets que contenian esas expresiones y estudiamos la relaci
 
 ***
 ## ¿Querés unirte a la comunidad de MetaDocencia?
-Podés unirte a nuestro [slack](https://metadocencia.slack.com/join/shared_invite/zt-1a3cri0ht-_Ws~Eq2VkkQ9L64rvu2czA#/shared-invite/email) o escribirnos a info@metadocencia.org
+Podés unirte a nuestro [slack](https://metadocencia.slack.com/join/shared_invite/zt-1a3cri0ht-_Ws~Eq2VkkQ9L64rvu2czA#/shared-invite/email) o escribirnos a info@metadocencia.org.
