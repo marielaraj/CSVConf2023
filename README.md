@@ -34,3 +34,7 @@ Luego, buscamos los tweets que contenian esas expresiones y estudiamos la relaci
 
 
 ### 3. Slides
+
+
+***
+¿Querés comunicarte con MetaDocencia? Podés unirte a nuestro [slack](https://metadocencia.slack.com/join/shared_invite/zt-1a3cri0ht-_Ws~Eq2VkkQ9L64rvu2czA#/shared-invite/email) o escribirnos a info@metadocencia.org
